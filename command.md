@@ -34,3 +34,10 @@ Git 삭제
 
 .git 폴더가 생겨진것을 확인 할수 있다.
 
+<img width="413" alt="스크린샷 2023-02-06 오후 7 37 09" src="https://user-images.githubusercontent.com/104719555/216951731-cd4ad3e7-4a4f-4b50-929f-a5525bd33ff9.png">
+
+.git 내부 파일의 모습이고 지우기 위해서 다시 cd .. 의 명령어를 한 다음 git 삭제 명령어를 해주면 
+
+<img width="429" alt="스크린샷 2023-02-06 오후 7 44 05" src="https://user-images.githubusercontent.com/104719555/216951908-7606ee37-9253-4d83-8f89-fdf86b06c993.png">
+
+위의 사진 처럼 지워지는것을 볼수 있따.
